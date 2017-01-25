@@ -1,0 +1,10 @@
+<suite name = "Listeners">
+	<listeners>
+		<listener class-name="Listeners.Listeners_class"></listener>
+	</listeners>
+	<test name = "Test - Listeners" >
+		<classes>
+			<class name="test_Cases.Login_Verify" />
+		</classes>
+	</test>
+</suite>
