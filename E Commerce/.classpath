@@ -36,6 +36,5 @@
 	<classpathentry kind="lib" path="D:/E_From_Desktop/Selenium/poi-bin-3.14/poi-3.14/lib/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="D:/E_From_Desktop/Selenium/poi-bin-3.14/poi-3.14/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/E_From_Desktop/Selenium/poi-bin-3.14/poi-3.14/lib/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="D:/E_From_Desktop/Selenium/poi-bin-3.14/poi-3.14/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

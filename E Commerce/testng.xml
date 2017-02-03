@@ -4,7 +4,7 @@
 	</listeners>
 	<test name = "Test - Listeners" >
 		<classes>
-			<class name="test_Cases.Login_Verify" />
+			<class name="test_Cases.Login" />
 		</classes>
 	</test>
 </suite>
